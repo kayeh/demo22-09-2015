@@ -18,6 +18,7 @@ public class MyHenningGithubDemo {
         // TODO code application logic here
         System.out.println("Henning is beautiful");
         System.out.println("Joni is beautiful");
+        System.out.println("Eske is beautiful");
     }
 
 }
